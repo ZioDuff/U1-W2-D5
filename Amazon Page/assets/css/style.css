@@ -1,0 +1,153 @@
+/* Your styles here */
+body {
+  width: 100%;
+}
+
+/* style header */
+#logo-1 {
+  background-color: #222f3f;
+  padding: 1em;
+}
+
+#logo-1 img {
+  height: 60px;
+}
+
+#anotherPages {
+  background-color: #364759;
+  padding-left: 1.5em;
+}
+
+.lista-1 {
+  display: inline-block;
+  display: inline-block;
+  margin: 0.4em 0.3em;
+}
+
+.lista-1 a {
+  color: white;
+  text-decoration: none;
+}
+/* fine style header */
+
+/* inizio style main */
+
+/* article */
+
+#Principal {
+  padding: 3em 2em;
+  background-color: #e9edee;
+}
+
+/* section 1 */
+
+#arancione {
+  text-align: center;
+  background-color: #f56600;
+  color: white;
+  padding: 0.5em 0;
+}
+
+#boxRegalo {
+  background-image: url(../images/bg-image.png);
+  margin-top: 3em;
+  text-align: center;
+  height: 6em;
+  background-position: center;
+  text-align: center;
+  padding-top: 3em;
+}
+
+#boxRegalo h1 {
+  font-size: 1.5em;
+  color: white;
+  font-weight: 700;
+  margin-bottom: 1em;
+}
+
+#boxRegalo a {
+  color: white;
+  text-decoration: none;
+}
+
+#box-immagini {
+  background-color: white;
+  margin-inline: 10px;
+  height: 580px;
+  margin-block: 50px;
+  margin-top: 3em;
+}
+
+#box-immagini img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 15px;
+  box-shadow: 10px 10px 10px #cdcdcd;
+}
+
+#testo-immagini p,
+a {
+  display: inline-block;
+}
+
+#box-immagini .Fotoimmagini {
+  padding-inline-start: 10px;
+  padding-inline-end: 10px;
+  padding-inline: 20px;
+  padding-top: 40px;
+  float: left;
+  width: 22.8%;
+  height: 80%;
+  display: inline;
+  border-radius: 20px;
+}
+
+.immagini {
+  width: 100%;
+}
+
+/* aside */
+
+#immaginiLunghe {
+  margin-top: 2em;
+}
+
+.longimg {
+  width: 100%;
+}
+
+.pgame {
+  text-align: center;
+  padding-top: 0;
+  padding-bottom: 2em;
+}
+
+/* footer */
+
+#back {
+  background-color: #364759;
+  text-align: center;
+  padding-block: 15px;
+}
+
+#back a {
+  color: white;
+  font-size: 0.9rem;
+}
+
+#logo2 {
+  background-color: #222f3f;
+  text-align: center;
+}
+
+#logo2 a {
+  width: 50%;
+  margin: auto;
+
+  padding-block: 50px;
+}
+
+#logo2 img {
+  height: 50px;
+}
